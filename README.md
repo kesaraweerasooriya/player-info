@@ -1,7 +1,7 @@
 # player-info
 A working player info meu for cod4 promod
 
-##Note : 
+Note : 
 Thread this in _globallogic.gsc       Callback_PlayerConnect()
 
 ### Screenshots
