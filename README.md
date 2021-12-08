@@ -2,7 +2,11 @@
 A working player info meu for cod4 promod
 
 Note : 
-Thread this in _globallogic.gsc       Callback_PlayerConnect()
+Thread stas/_player_stats.gsc in _globallogic.gsc       Callback_PlayerConnect()
+
+Update in mod.csv
+stringtable,mp/playerStatsTable.csv
+
 
 ### Screenshots
 
