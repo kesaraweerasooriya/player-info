@@ -1,5 +1,5 @@
 # player-info
-A working player info meu for cod4 promod
+A working player info menu for cod4 promod
 
 Note : 
 Thread stas/_player_stats.gsc in _globallogic.gsc       Callback_PlayerConnect()
